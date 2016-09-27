@@ -891,6 +891,7 @@ ul#nav li a:hover {
   background: transparent;
   content: "\f0b1";
   color: #fff;
+  display: none;
 }
 
 
@@ -1209,6 +1210,7 @@ ul#nav li a:hover {
   background: #191919;
   content: "\f003";
   color: #888;
+  display: none;
 }
 
 
