@@ -749,37 +749,37 @@ ul#nav li a:hover {
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
+.javascript {
   background: #1abc9c;
-  width: 70%;
+  width: 90%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
-.illustrator {
+.react {
   background: #e74c3c;
-  	width: 90%;
+  	width: 70%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
-.wordpress {
+.angularjs {
   background: #34495e;
   	width: 80%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
-.css {
+.ember {
   background: #3498db;
-  	width: 70%;
+  	width: 60%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.html5 {
+.sass {
   background: #d35400;
   	width: 80%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
+.sql {
   background: #9b59b6;
   	width: 80%;
   	-moz-animation: jquery 2s ease;
