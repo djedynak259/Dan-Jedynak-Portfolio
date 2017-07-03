@@ -128,7 +128,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/dancover.jpg) no-repeat top center;
+   background: #161415 url(../images/earth-space-edit.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -186,7 +186,7 @@ header .banner-text hr {
 }
 
 .header-overlay {  
-  background: #161415 url(../images/dancoverblur.jpg) no-repeat top center;     
+  background: #161415 url(../images/earth-space-blur.jpg) no-repeat top center;     
   background-size:  cover!important;
   position: absolute;
   top: 0;
@@ -874,7 +874,7 @@ ul#nav li a:hover {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: url(../images/3.jpg) no-repeat fixed center center / cover;
+   background: url(../images/space2.jpg) no-repeat fixed center center / cover;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -907,8 +907,8 @@ ul#nav li a:hover {
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
   background: none repeat scroll 0 0 #fff;
-  border: 5px solid #fff;
-  box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.2);
+  border: 1px solid #fff;
+  /*box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.2);*/
   overflow: hidden;
   position: relative;
 
@@ -940,7 +940,7 @@ ul#nav li a:hover {
 	 transition: opacity 0.3s ease-in-out;
 
    background: #ed5565;
-   background: rgba(237,85,101, .9);
+   background: rgba(17,171,176, .9);
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;
