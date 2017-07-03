@@ -215,6 +215,11 @@ header .banner-text hr {
    z-index: 2;
 }
 
+.social-bottom {
+  position: relative !important;
+  background: auto !important;
+}
+
 .social-container {
    display: block;
    vertical-align: middle;
@@ -222,7 +227,6 @@ header .banner-text hr {
    width: 85%;
    text-align: center;
 }
-
 
 .social-container .social {
    margin: 24px 0;
