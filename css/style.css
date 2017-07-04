@@ -912,6 +912,7 @@ ul#nav li a:hover {
 
 .btn-close {
   background: #ed5565;
+  float:right;
 }
 
 
