@@ -362,6 +362,7 @@ ul#nav li a:hover {
 #about {
   background: url(../images/2.jpg) no-repeat fixed center center / cover;        
   overflow: hidden;
+  color: #9199A1;
 }
 
 #about a, #about a:visited  { 
