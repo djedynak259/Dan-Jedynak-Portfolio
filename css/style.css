@@ -1220,6 +1220,7 @@ ul#nav li a:hover {
    background: #191919;
    padding-top: 60px;
    color: #888;
+   color: #9199A1;
 }
 #contact .section-head { margin-bottom: 30px; }
 
@@ -1280,7 +1281,7 @@ ul#nav li a:hover {
 #contact select {
   font-family: 'Open Sans', sans-serif;
   padding: 10px 20px;
-	color: #eee;
+	color: #9199A1;
 	background: #373233;
   margin: 0 auto 30px;
 	border: 1px solid #373233;
