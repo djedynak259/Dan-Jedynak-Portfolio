@@ -241,6 +241,10 @@ TOC :
    /* About Section
    -------------------------------------------------------------------- */
    #about {
+      text-align: left;
+   }
+
+   #about p {
       text-align: center;
    }
 
@@ -285,12 +289,20 @@ TOC :
    #resume h1 { letter-spacing: 3px; }
    #resume .main-col { padding-right: 30px; }
    #resume .info { text-align: center; }
+
+   .award-list ul li h4 {
+      margin-left: 0px; 
+   }
+   .award-list ul li h5 {
+      margin-left: 0px; 
+   }
       
    .bars { width: 100%; }
 
 
    /* Call To Action Section
    /* ----------------------------------------------------------------- */
+   
   #call-to-action {
     padding-bottom: 30px;
     padding-top: 20px;
@@ -470,9 +482,13 @@ TOC :
    }
 
    .award-list ul li  {
-      text-align: center;
+      text-align: left;
       background: #ecf0f1;
       padding: 15px 5px;
+   }
+
+   .award-list ul li h5 {
+      margin-left: 0px; 
    }
 
    .award-list ul li span i {
