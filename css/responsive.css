@@ -12,6 +12,22 @@ TOC :
 
 /* ================================================================== */
 
+@media only screen and (max-width:1063px) {
+
+  #portfolio-wrapper .columns {
+    float:none;
+  }
+
+}
+
+@media only screen and (max-width:1377px) {
+
+  #about .main-col {
+    padding: 2%;
+    height: auto;
+  }
+  
+}
 
 /* screenwidth less than 1024px
 --------------------------------------------------------------------- */
@@ -32,17 +48,9 @@ TOC :
     width: 100%;
   }
   #about .bio-left {
-    min-height: 600px;
     height: auto;
     padding: 60px 30px;
   }
-
-  #about .main-col {
-    min-height: 600px;
-    padding: 20px;
-    height: auto;
-  }
-
 
 }
 
@@ -271,6 +279,8 @@ TOC :
 
   #about .main-col {
     padding: 20px;
+    height: auto;
+    min-height: 20px;
     height: auto;
   }
 
