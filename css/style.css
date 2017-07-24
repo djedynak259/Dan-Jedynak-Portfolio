@@ -128,7 +128,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/earth-space-edit.jpg) no-repeat top center;
+   background: #161415 url(../images/dancover.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -186,7 +186,7 @@ header .banner-text hr {
 }
 
 .header-overlay {  
-  background: #161415 url(../images/earth-space-blur.jpg) no-repeat top center;     
+  background: #161415 url(../images/dancoverblur.jpg) no-repeat top center;     
   background-size:  cover!important;
   position: absolute;
   top: 0;
